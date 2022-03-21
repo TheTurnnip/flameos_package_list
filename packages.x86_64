@@ -120,4 +120,29 @@ xfsprogs
 xl2tpd
 zsh
 
-#test
+#FlameOS packages
+#----------------
+
+networkmanageer
+nano
+man-db
+man-info
+texinfo
+grub
+amd-ucode
+intel-ucode
+xorg
+nvidia
+nvidia-utils
+xf86-video-amdgpu	
+xf86-video-ati
+xf86-video-amdgpu
+mesa
+plasma
+kde-applications
+sddm
+pipewire
+ufw
+xf86-input-synaptics
+libinput
+cups
