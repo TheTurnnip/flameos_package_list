@@ -123,10 +123,10 @@ zsh
 #FlameOS packages
 #----------------
 
-networkmanageer
+networkmanager
 nano
 man-db
-man-info
+man-pages
 texinfo
 grub
 amd-ucode
@@ -134,7 +134,7 @@ intel-ucode
 xorg
 nvidia
 nvidia-utils
-xf86-video-amdgpu	
+xf86-video-amdgpu
 xf86-video-ati
 mesa
 plasma
